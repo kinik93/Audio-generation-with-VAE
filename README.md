@@ -13,6 +13,7 @@ As mentioned in the original article we used <a href="https://ieeexplore.ieee.or
  
 ## Implementation
 In order to reduce the huge number of parameters of the original model we achieved a dimensionality reduction of the filters with respect of it.
+(TODO: base model description)
 
 We also implemented a variational version of the baseline autoencoder to see if a meaningful audio generation was possible in this case. Even in this case the phase was reconstructed using Griffin & Lim algorithm
 
