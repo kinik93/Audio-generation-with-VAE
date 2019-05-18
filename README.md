@@ -1,6 +1,7 @@
 # Spectral Autoencoder
 
 This is a Keras implementation of the baseline spectral autoencoder described in google deepmind <a href="https://arxiv.org/pdf/1704.01279.pdf"> paper </a>.
+
 You can have a look at our results here:
 <li>Note reconstruction: 
 <li>Audio generation with VAE: 
