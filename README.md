@@ -3,7 +3,7 @@
 This is a Keras implementation of a variational version of the baseline spectral autoencoder described in google deepmind <a href="https://arxiv.org/pdf/1704.01279.pdf"> paper </a>.
 
 You can have a look at our results here:
-<li>Audio generation with VAE: [Link yt]
+<li>Audio generation with VAE: https://www.youtube.com/watch?v=I7eWJuqg3zU
 
 ## Dataset
 
