@@ -15,4 +15,4 @@ As mentioned in the original article we used <a href="https://ieeexplore.ieee.or
 We implemented a variational version of the baseline autoencoder to see if a meaningful audio generation was possible in this case. In order to reduce the huge number of parameters of the original model we achieved a dimensionality reduction of the filters with respect of it. Even in this case the phase was reconstructed using Griffin & Lim algorithm
 
 ## License
-The code is released under the terms of TODO license.
+The code is released under the terms of MIT license.
